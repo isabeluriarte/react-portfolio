@@ -7,8 +7,10 @@ export default class About extends Component {
         <section id="about">
           <div className="row">
             <div className="twelve columns main-col">
-              <h2>About Me</h2>
-              <p>I am a junior web developer seeking to align myself with a passionate organization where I can pursue a fulfilling career and apply my leadership, web development, and design skills.
+              <h2>ABOUT ME</h2>
+              <p>Front-End Web Developer leveraging a background in photography to help build a more beautiful user experience on the web.
+                
+                I am seeking to align myself with a passionate organization where I can pursue a fulfilling career and apply my leadership, web development, and design skills.
             </p>
               <div className="row">
                 <div className="columns download">

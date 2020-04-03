@@ -17,14 +17,12 @@ export default class Header extends Component {
           </nav> {/* end #nav-wrap */}
           <div className="row banner">
             <div className="banner-text">
-              <h1 className="responsive-headline">Isabel Uriarte</h1>
-              <h3>Front-End Web Developer leveraging a background in photography to build a more beautiful user experience on the web.
-              </h3>
+              <div className="responsive-headline">Isabel Uriarte</div>
 
-              <ul className="social">
+              {/* <ul className="social">
                 <li><a href="https://www.linkedin.com/in/isabeluriarte/" target="_blank"><i className="fa fa-linkedin" /></a></li>
                 <li><a href="https://www.instagram.com/isabel__itziar" target="_blank"><i className="fa fa-instagram" /></a></li>
-              </ul>
+              </ul> */}
             </div>
           </div>
           <p className="scrolldown">

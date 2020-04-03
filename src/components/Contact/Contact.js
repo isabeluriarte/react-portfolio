@@ -6,13 +6,19 @@ export default class Contact extends Component {
       <React.Fragment>
         <section id="contact">
           <div className="row section-head">
-            <div className="two columns header-col">
-              <h1><span>Get In Touch.</span></h1>
+            <div className="tweleve columns header-col">
+              
             </div>
-            <div className="ten columns">
-              <p className="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+            <div className="twelve columns">
+            <h1>Get In Touch</h1>
+              <p className="lead">
+                I'd love to hear from you!
+            </p>
+            <p className="lead">
+            Reach out via email at:
+            </p>
+            <p className="lead">
+              uriarte.isabel@gmail.com
             </p>
             </div>
           </div>
