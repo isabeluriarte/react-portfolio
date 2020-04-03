@@ -14,7 +14,7 @@ export default class Portfolio extends Component {
                   <div className="item-wrap">
                     <a href="#modal-01" title>
                       <img alt="" src="images/portfolio/leftoversimage.png" />
-                      <div className="centered-text">LEFTŌVERS</div>
+                      <div className="centered-text">LEFTOVERS</div>
                       <div className="overlay"></div>
                       <div className="link-icon"><i className="icon-plus" /></div>
                     </a>

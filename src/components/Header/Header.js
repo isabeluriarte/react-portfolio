@@ -18,6 +18,7 @@ export default class Header extends Component {
           <div className="row banner">
             <div className="banner-text">
               <div className="responsive-headline">Isabel Uriarte</div>
+              <h3>Front-End Web Developer</h3>
 
               {/* <ul className="social">
                 <li><a href="https://www.linkedin.com/in/isabeluriarte/" target="_blank"><i className="fa fa-linkedin" /></a></li>
