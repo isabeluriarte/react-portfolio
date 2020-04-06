@@ -32,20 +32,21 @@
       font-size: 78px/1.1em;
       letter-spacing: -1px;
       position: absolute;
-      top: 70%;
+      top: 65%;
    }
-   /* header .banner-text h3 {
-      font: 17px/1.9em 'librebaskerville-regular', serif;
-      width: 70%;
-   } */
-   /* nav-wrap */
+   header .banner-text h3 {
+      position: absolute;
+      left: 0%;
+   }
+
    #nav-wrap {
       font: 11px 'opensans-bold', sans-serif;
       letter-spacing: 1.5px;
    }
 
    header {
-     background-position: 85% top;
+     background-position: 80% top;
+     height: 100vh;
    }
 
 

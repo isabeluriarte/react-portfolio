@@ -17,8 +17,10 @@ export default class Header extends Component {
           </nav> {/* end #nav-wrap */}
           <div className="row banner">
             <div className="banner-text">
-              <div className="responsive-headline">Isabel Uriarte</div>
+              <div className="responsive-headline">Isabel Uriarte
               <h3>Front-End Web Developer</h3>
+              </div>
+              
 
               {/* <ul className="social">
                 <li><a href="https://www.linkedin.com/in/isabeluriarte/" target="_blank"><i className="fa fa-linkedin" /></a></li>
@@ -26,9 +28,9 @@ export default class Header extends Component {
               </ul> */}
             </div>
           </div>
-          <p className="scrolldown">
+          <div className="scrolldown">
             <a className="smoothscroll" href="#about"><i className="icon-down-circle" /></a>
-          </p>
+          </div>
         </header>
       </React.Fragment>
     );

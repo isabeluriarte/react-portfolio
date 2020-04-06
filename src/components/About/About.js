@@ -14,9 +14,9 @@ export default class About extends Component {
             </p>
               <div className="row">
                 <div className="columns download">
-                  <p>
+                  <div>
                     <a href="/images/isabel-uriarte-resume.pdf" className="button" download="Isabel-Uriarte-Resume"><i className="fa fa-download" />Download Resume</a>
-                  </p>
+                  </div>
                 </div>
               </div> {/* end row */}
             </div> {/* end .main-col */}
